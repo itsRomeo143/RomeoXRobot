@@ -10,7 +10,7 @@
 </p>
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ʀᴏᴍᴇᴏ ✘ ʀᴏʙᴏᴛ
-](https://t.me/FallenXRobot)**_
+](http://t.me/RoMeoXRoBot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
