@@ -1,7 +1,7 @@
 {
       "name": "Romeo-X-Robot",
       "description": "Telegram Group Management Bot.",
-      "logo": "https://i.postimg.cc/NFR6ZJH8/20230407-235212.jpg",
+      "logo": "https://i.postimg.cc/76LQRpsq/20230413-162842.jpg",
       "keywords": [
          "telegram",
          "modular",
@@ -66,7 +66,7 @@
       "START_IMG": {
          "description": "Telegraph link of the image which will be shown at start command.",
          "required": true,
-         "value": ""
+         "value": "https://i.postimg.cc/76LQRpsq/20230413-162842.jpg"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to Fallen Support than consider you made an enemy.",
