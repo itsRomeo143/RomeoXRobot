@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://i.postimg.cc/NFR6ZJH8/20230407-235212.jpg">
+  <img src="https://i.postimg.cc/76LQRpsq/20230413-162842.jpg">
 </p>
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ʀᴏᴍᴇᴏ ✘ ʀᴏʙᴏᴛ
@@ -19,7 +19,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ʀᴏᴍᴇᴏ ✘ 
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AnonymousX1025/FallenRobot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/itsRomeo143/RomeoXRobot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 <h3 align="center">
@@ -31,7 +31,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ʀᴏᴍᴇᴏ ✘ 
 - <b> ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
 </h3></summary>
 
-- Get your [Necessary Variables](https://github.com/AnonymousX1025/FallenRobot/blob/master/FallenRobot/config.py)
+- Get your [Necessary Variables](https://github.com/itsRomeo143/RomeoXRobot/blob/master/RomeoXRobot/config.py)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install required packages by :
